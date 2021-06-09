@@ -1,1 +1,2 @@
-# python_mini_project
+# voice assistant using google api
+   
